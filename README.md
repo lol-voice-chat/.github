@@ -24,9 +24,7 @@
 
 - [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) macOS(arm64)
 - [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) macOS(intel)
-- [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.21.2/Gifski.2.21.2.-.macOS.11.zip) window
- 
-
+- [0.1.2](https://github.com/lol-voice-chat/lvc-app/releases/download/v0.1.2/lvc-Setup-0.1.2.exe) window
 
 <br/>
 
