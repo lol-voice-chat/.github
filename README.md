@@ -38,6 +38,11 @@
   
 <br/>
 
+### BE
+Typescript, Javascript, Electron, Nodejs, Socket.io, Mediasoup, Redis, class-transformer, league-connect, electron-builder, webpack
+
+<br/>
+
 ## 🧏‍♂️ 핵심 기능
 ### 로그인을 하지않아도 롤만 켜주면 자동으로 유저의 정보를 불러옵니다.
 <p align="center">
