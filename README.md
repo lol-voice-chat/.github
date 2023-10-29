@@ -22,9 +22,9 @@
 ## 다운로드
 지원하는 운영체제 : window, mac os 
 
-- [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) macOS(arm64)
-- [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) macOS(intel)
-- [0.1.2](https://github.com/lol-voice-chat/lvc-app/releases/download/v0.1.2/lvc-Setup-0.1.2.exe) window
+- [macOS(arm64)](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) 
+- [macOS(intel)](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) 
+- [window](https://github.com/lol-voice-chat/lvc-app/releases/download/v0.1.2/lvc-Setup-0.1.2.exe)
 
 <br/>
 
