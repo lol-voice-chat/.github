@@ -1,13 +1,32 @@
+<div align="center">
+	<img src="https://github.com/lol-voice-chat/.github/assets/105103712/c711fa97-e18d-46f7-a467-5dface60285b" width="300">
+	<h1>롤보챗(Lol Voice Chat)</h1>
+	<p>
+		<b>롤에서 매칭된 팀원과 음성채팅이 가능한 데스크탑 어플리케이션 서비스</b>
+	</p>
+	<br>
+	<br>
+	<br>
+</div>
 
-## 💁‍♂️ 서비스 소개
-<p align="center"><img src="https://github.com/lol-voice-chat/.github/assets/105103712/c711fa97-e18d-46f7-a467-5dface60285b" width=300px /></p>
+롤보챗은 롤에서 만난 사람들과 음성으로 대화할 수 있는 데스크탑 앱입니다. 
 
-[리그오브레전드](https://www.leagueoflegends.com/ko-kr/) 유저들의 바쁜손은 플레이에만 집중!  
-그냥 켜놓으면 롤에서 매칭된 팀원과 음성채팅이 가능하게되는 데스크탑 어플리케이션 서비스
+매칭이 잡히고 챔피언 선택창으로 넘어가는 순간부터 롤보챗 앱을 이용하고 있는 팀원끼리 자동으로 보이스방이 생성됩니다. 
 
+또한 챔피언 선택 후 게임로딩창으로 넘어가면, 팀원과 적팀이 서로 음성으로 대화할 수 있습니다. 게임이 시작되면 전체보이스방은 자동으로 끊깁니다.
+
+롤보챗은 보이스 말고도 전채채팅, 소환사 정보 표시, 최근 함께한 소환사, 단축키, 기타 설정 등 다양한 기능이 있습니다. 
+
+<br>
+
+## 다운로드
 지원하는 운영체제 : window, mac os 
+
+- [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) macOS(arm64)
+- [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.22.3/Gifski.2.22.3.-.macOS.12.zip) macOS(intel)
+- [0.1.2](https://github.com/sindresorhus/Gifski/releases/download/v2.21.2/Gifski.2.21.2.-.macOS.11.zip) window
  
-### [개발 배경]()
+
 
 <br/>
 
