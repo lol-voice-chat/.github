@@ -20,14 +20,16 @@
 <br/>
 
 ## ⚙️ 기술스택
-**Language |** Typescript
+### FE
 
-**Framework |** Electron
+* **Language |** Typescript
 
-**Library |** React.js, Recoil, Socket.io, Mediasoup
+* **Framework |** Electron
 
-**CSS |** Styled-Components 
+* **Library |** React.js, Recoil, Socket.io, Mediasoup
 
-**Module Bundler |** Webpack
+* **CSS |** Styled-Components 
 
-**Package Manager |** Npm
+* **Module Bundler |** Webpack
+
+* **Package Manager |** Npm
