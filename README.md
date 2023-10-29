@@ -13,8 +13,8 @@
 
 ## 🙇‍♂️ 팀원
 |                                         Frontend                                         |                                           Backend                                           |
-| :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: 
-| <img src="https://avatars.githubusercontent.com/u/?v=4" width=200px /> | <img src="https://avatars.githubusercontent.com/u/?v=4" width=200px /> | 
+| :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------:
+| <img src="https://avatars.githubusercontent.com/u/105103712?v=4" width=200px /> | <img src="https://avatars.githubusercontent.com/u/80371249?v=4" width=200px /> | 
 |                            [tkyung05](https://github.com/tkyung05)                             |                    [nswon](https://github.com/nswon)                |
 
 <br/>
