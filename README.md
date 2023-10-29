@@ -37,7 +37,15 @@
 <br/>
 
 ### BE
-Typescript, Javascript, Electron, Nodejs, Socket.io, Mediasoup, Redis, class-transformer, league-connect, electron-builder, webpack
+* **Language |** Typescript, Javascript
+
+* **Framework |** Electron, Nodejs
+
+* **Library |** Socket.io, Mediasoup, Redis, class-transformer, league-connect, electron-builder, webpack
+
+* **Module Bundler |** Webpack
+
+* **Package Manager |** Npm
 
 <br/>
 
