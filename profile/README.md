@@ -1,6 +1,6 @@
 <div align="center">
 	<img src="https://github.com/lol-voice-chat/.github/assets/105103712/bccba31c-e118-4353-a915-681265cd66d9" width="120">
-	<h1>롤보챗(Lol Voice Chat)</h1>
+	<h1>롤보챗 (Lol Voice Chat)</h1>
 	<p>
 		<b>롤에서 매칭된 팀원과 음성채팅이 가능한 데스크탑 어플리케이션 서비스</b>
 	</p>
