@@ -107,4 +107,3 @@
 
 <br>
 
-[프론트엔드 v1.0 중간점검 일지](https://velog.io/@tkyung05/%EB%A1%A4%EB%B3%B4%EC%B1%97-FE-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)
