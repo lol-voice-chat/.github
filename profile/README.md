@@ -74,7 +74,7 @@
 롤을 키면 로그인을 하지 않아도 자동으로 소환사의 정보를 불러옵니다.
 
 <p align="center">
-	<img width="400" src="https://github.com/lol-voice-chat/.github/assets/80371249/af10a792-254a-4227-9164-17db88ce1bfa">
+	<img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/877a5daf-9d37-448b-8945-bdcebb8bd6e7">
 </p>
 
 ### 유저의 최근전적과 승률 등 유용한 정보를 제공합니다.
