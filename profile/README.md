@@ -70,7 +70,7 @@
 <h3 style="color:black" > 나머지 추가 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)에서 🧏‍♂️</h3>
 <br/>
 
-<h2 style="color:black" > 팀원</h2>
+## 팀원
 |                                         Frontend                                         |                                           Backend                                           |
 | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------:
 | <img src="https://avatars.githubusercontent.com/u/105103712?v=4" width=200px /> | <img src="https://avatars.githubusercontent.com/u/80371249?v=4" width=200px /> | 
