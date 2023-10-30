@@ -87,19 +87,17 @@
 
 매칭이 잡히면 팀원간의 음성채팅이 가능하며 팀원의 정보도 함께 제공합니다. 
 <div align="center">
-  <img width="400" src="https://github.com/lol-voice-chat/.github/assets/80371249/77f7f601-9764-4e7f-b177-145dcee7da87">
+  <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/77f7f601-9764-4e7f-b177-145dcee7da87">
 </div>
 
 ### 챔피언 선택시 실시간으로 해당 챔피언에 맞는 UI와 정보가 업데이트됩니다.
 <div align="center">
   <img width="800" alt="스크린샷 2023-10-29 오후 11 15 22" src="https://github.com/lol-voice-chat/.github/assets/105103712/0a56632f-0718-41d5-a001-e62aa83ae86a">
-  <img width="800" alt="스크린샷 2023-10-29 오후 11 15 44" src="https://github.com/lol-voice-chat/.github/assets/105103712/f7cfc5ce-f56b-42ee-98ec-400f8d9f89c8">
 </div>
 
 ### 리그 보이스 - 로딩창에서 부터 미니언이 생성되기까지 적팀, 우리팀 모두 함께 음성채팅을 이용할 수 있습니다.
 <div align="center">
   <img width="336" alt="스크린샷 2023-10-29 오후 11 50 05" src="https://github.com/lol-voice-chat/.github/assets/105103712/421aa3ba-352c-410b-8559-023765ff291a">
-  <img width="576" alt="스크린샷 2023-10-29 오후 11 16 55" src="https://github.com/lol-voice-chat/.github/assets/105103712/08d1c332-1a11-4c53-a678-d76c03eb6749">
 </div>
 
 ### 유저 UI에 마우스를 오버하면 해당 유저와 챔피언에 맞는 정보를 제공합니다. 
