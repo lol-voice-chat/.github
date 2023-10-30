@@ -77,9 +77,12 @@
 	<img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/877a5daf-9d37-448b-8945-bdcebb8bd6e7">
 </p>
 
-### 유저의 최근전적과 승률 등 유용한 정보를 제공합니다.
+<br>
+
+소환사를 클릭하면 최근전적과 승률 평균 kda 등 유용한 정보를 제공합니다.
+
 <p align="center">
-<img width="400" alt="스크린샷 2023-10-29 오후 11 10 55" src="https://github.com/lol-voice-chat/.github/assets/105103712/8e1151dd-a890-4996-8d5e-d8a5eeacf0f9">
+	<img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/149fac66-862a-46a2-b054-61d87bb8e5cd">
 </p>
 
 ### 팀 보이스 - 큐가 잡히면 팀원간의 음성채팅이 가능하며 팀원의 정보도 함께 제공합니다. 
