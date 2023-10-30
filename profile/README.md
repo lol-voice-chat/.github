@@ -7,6 +7,7 @@
 	<br>
 	<br>
 	<br>
+
 </div>
 
 롤보챗은 롤에서 만난 사람들과 음성으로 대화할 수 있는 데스크탑 앱입니다. 
@@ -71,7 +72,7 @@
 ## 🧏‍♂️ 핵심 기능
 ### 로그인을 하지않아도 롤만 켜주면 자동으로 유저의 정보를 불러옵니다.
 <p align="center">
-	<img src="https://github.com/lol-voice-chat/lvc-app/assets/80371249/a18ca819-7894-4e37-bc06-c013ee2c5bb6">
+	<img src="https://github.com/lol-voice-chat/.github/assets/80371249/27915f66-d469-4008-b36e-9b58227c72a5">
 </p>
 
 ### 유저의 최근전적과 승률 등 유용한 정보를 제공합니다.
