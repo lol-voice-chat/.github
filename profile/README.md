@@ -30,7 +30,7 @@
 
 <br/>
 
-## 기능
+## 주요 기능
 롤을 키면 로그인을 하지 않아도 자동으로 소환사의 정보를 불러옵니다.
 
 <p align="center">
@@ -66,6 +66,8 @@
 <div align="center">
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/4293fe0f-0002-45c2-882a-0c6a033f0460">
 </div>
+
+### 나머지 추가 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)
 
 <br/>
 
