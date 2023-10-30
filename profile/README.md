@@ -21,7 +21,7 @@
 
 <br>
 
-## 다운로드
+<h2 style="color:black" >다운로드</h2>
 지원하는 운영체제 : window, mac os 
 
 - [macOS(arm64)](https://github.com/lol-voice-chat/lvc-app/releases/download/v0.1.3/lvc-0.1.3-arm64-mac.zip) 
@@ -30,7 +30,7 @@
 
 <br/>
 
-## 주요 기능
+<h2 style="color:black" > 주요 기능 </h2>
 롤을 키면 로그인을 하지 않아도 자동으로 소환사의 정보를 불러옵니다.
 
 <p align="center">
@@ -67,10 +67,10 @@
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/4293fe0f-0002-45c2-882a-0c6a033f0460">
 </div>
 
-### 나머지 추가 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)에서 🧏‍♂️
+<h3 style="color:black" > 나머지 추가 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)에서 🧏‍♂️</h3>
 <br/>
 
-## 팀원
+<h2 style="color:black" > 팀원</h2>
 |                                         Frontend                                         |                                           Backend                                           |
 | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------:
 | <img src="https://avatars.githubusercontent.com/u/105103712?v=4" width=200px /> | <img src="https://avatars.githubusercontent.com/u/80371249?v=4" width=200px /> | 
@@ -78,8 +78,8 @@
 
 <br/>
 
-## 기술스택
-### FE
+<h2 style="color:black" > 기술스택</h2>
+<h3 style="color:black" > FE </h3>
 
 * **Language |** Typescript
 
@@ -95,7 +95,7 @@
   
 <br/>
 
-### BE
+<h3 style="color:black" > BE</h3>
 * **Language |** Typescript, Javascript
 
 * **Framework |** Electron, Nodejs
