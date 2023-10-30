@@ -95,16 +95,8 @@
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/9daed365-957f-47ba-ba19-872ed4de3d92">
 </div>
 
-### 리그 보이스 - 로딩창에서 부터 미니언이 생성되기까지 적팀, 우리팀 모두 함께 음성채팅을 이용할 수 있습니다.
+챔피언 선택이 끝나고 게임로딩창으로 넘어가면 적팀, 우리팀 모두 함께 음성채팅을 이용할 수 있습니다.
+또한 유저 UI에 마우스를 오버하면 해당 유저와 챔피언에 맞는 정보를 제공합니다.
 <div align="center">
-  <img width="336" alt="스크린샷 2023-10-29 오후 11 50 05" src="https://github.com/lol-voice-chat/.github/assets/105103712/421aa3ba-352c-410b-8559-023765ff291a">
+  <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/4293fe0f-0002-45c2-882a-0c6a033f0460">
 </div>
-
-### 유저 UI에 마우스를 오버하면 해당 유저와 챔피언에 맞는 정보를 제공합니다. 
-<div align="center">
-  <img width="473" alt="스크린샷 2023-10-29 오후 11 17 03" src="https://github.com/lol-voice-chat/.github/assets/105103712/0bf463c0-8804-4a1c-9419-22806535d218">
-</div>
-
-
-## 다른 기능들도 궁금하시다면 아래 링크의 시연 영상을 확인해주세요
-### 👉 [시연 영상]()
