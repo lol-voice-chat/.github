@@ -85,10 +85,9 @@
 	<img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/149fac66-862a-46a2-b054-61d87bb8e5cd">
 </p>
 
-### 팀 보이스 - 큐가 잡히면 팀원간의 음성채팅이 가능하며 팀원의 정보도 함께 제공합니다. 
+매칭이 잡히면 팀원간의 음성채팅이 가능하며 팀원의 정보도 함께 제공합니다. 
 <div align="center">
-  <img width="400" alt="스크린샷 2023-10-29 오후 11 39 26" src="https://github.com/lol-voice-chat/.github/assets/105103712/1b0d9d7c-8171-46c6-9883-5765cbf5562e">
-  <img width="500" alt="스크린샷 2023-10-29 오후 11 40 05" src="https://github.com/lol-voice-chat/.github/assets/105103712/118a131c-a626-4db0-a7aa-bdecdf01d02b">
+  <img width="400" src="https://github.com/lol-voice-chat/.github/assets/80371249/77f7f601-9764-4e7f-b177-145dcee7da87">
 </div>
 
 ### 챔피언 선택시 실시간으로 해당 챔피언에 맞는 UI와 정보가 업데이트됩니다.
