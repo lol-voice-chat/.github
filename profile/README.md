@@ -90,7 +90,7 @@
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/77f7f601-9764-4e7f-b177-145dcee7da87">
 </div>
 
-### 챔피언 선택시 실시간으로 해당 챔피언에 맞는 UI와 정보가 업데이트됩니다.
+챔피언 선택시 실시간으로 해당 챔피언에 맞는 UI와 정보가 업데이트됩니다.
 <div align="center">
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/9daed365-957f-47ba-ba19-872ed4de3d92">
 </div>
