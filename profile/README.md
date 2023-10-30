@@ -92,7 +92,7 @@
 
 ### 챔피언 선택시 실시간으로 해당 챔피언에 맞는 UI와 정보가 업데이트됩니다.
 <div align="center">
-  <img width="800" alt="스크린샷 2023-10-29 오후 11 15 22" src="https://github.com/lol-voice-chat/.github/assets/105103712/0a56632f-0718-41d5-a001-e62aa83ae86a">
+  <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/9daed365-957f-47ba-ba19-872ed4de3d92">
 </div>
 
 ### 리그 보이스 - 로딩창에서 부터 미니언이 생성되기까지 적팀, 우리팀 모두 함께 음성채팅을 이용할 수 있습니다.
