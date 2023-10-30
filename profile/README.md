@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 style="color:black" >다운로드</h2>
+## 다운로드
 지원하는 운영체제 : window, mac os 
 
 - [macOS(arm64)](https://github.com/lol-voice-chat/lvc-app/releases/download/v0.1.3/lvc-0.1.3-arm64-mac.zip) 
@@ -30,7 +30,7 @@
 
 <br/>
 
-<h2 style="color:black" > 주요 기능 </h2>
+## 주요 기능 
 롤을 키면 로그인을 하지 않아도 자동으로 소환사의 정보를 불러옵니다.
 
 <p align="center">
@@ -78,8 +78,8 @@
 
 <br/>
 
-<h2 style="color:black" > 기술스택</h2>
-<h3 style="color:black" > FE </h3>
+## 기술스택
+### FE 
 
 * **Language |** Typescript
 
@@ -95,7 +95,7 @@
   
 <br/>
 
-<h3 style="color:black" > BE</h3>
+### BE
 * **Language |** Typescript, Javascript
 
 * **Framework |** Electron, Nodejs
