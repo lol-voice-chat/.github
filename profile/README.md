@@ -85,13 +85,13 @@
 
 * **Framework |** Electron
 
-* **Library |** React.js, Recoil, Socket.io, Mediasoup
+* **Library |** react.js, recoil, socket.io, mediasoup
 
-* **CSS |** Styled-Components 
+* **CSS |** styled-components 
 
-* **Module Bundler |** Webpack
+* **Module Bundler |** webpack
 
-* **Package Manager |** Npm
+* **Package Manager |** npm
   
 <br/>
 
@@ -100,11 +100,11 @@
 
 * **Framework |** Electron, Nodejs
 
-* **Library |** Socket.io, Mediasoup, Redis, class-transformer, league-connect, electron-builder, webpack
+* **Library |** socket.io, mediasoup, redis, class-transformer, league-connect, electron-builder
+  
+* **Module Bundler |** webpack
 
-* **Module Bundler |** Webpack
-
-* **Package Manager |** Npm
+* **Package Manager |** npm
 
 <br>
 
