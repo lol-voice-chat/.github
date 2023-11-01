@@ -67,7 +67,8 @@
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/4293fe0f-0002-45c2-882a-0c6a033f0460">
 </div>
 
-### 나머지 더 많은 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)에서 
+나머지 더 많은 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)에서 
+
 <br/>
 
 ## 팀원
