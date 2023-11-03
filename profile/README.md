@@ -17,7 +17,11 @@
 
 또한 챔피언 선택 후 게임로딩창으로 넘어가면, 팀원과 적팀이 서로 음성으로 대화할 수 있습니다. 게임이 시작되면 전체보이스방은 자동으로 끊깁니다.
 
-롤보챗은 보이스 말고도 전채채팅, 소환사 정보 표시, 최근 함께한 소환사, 단축키, 기타 설정 등 다양한 기능이 있습니다. 
+롤보챗은 보이스 말고도 전채채팅, 소환사 정보 표시, 최근 함께한 소환사, 단축키, 기타 설정 등 다양한 기능이 있습니다.
+
+[롤보챗의 역사](https://github.com/lol-voice-chat/lvc-app/wiki)  
+
+[시연영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)
 
 <br>
 
@@ -65,9 +69,7 @@
 또한 유저 UI에 마우스를 오버하면 해당 유저와 챔피언에 맞는 정보를 제공합니다.
 <div align="center">
   <img width="500" src="https://github.com/lol-voice-chat/.github/assets/80371249/4293fe0f-0002-45c2-882a-0c6a033f0460">
-</div>
-
-나머지 더 많은 기능들은 [테스트 영상](https://youtu.be/dPKcg0MB7iA?si=Jrc3IPtli3JilJGz)에서 
+</div> 
 
 <br/>
 
